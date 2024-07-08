@@ -4,6 +4,7 @@
 
 你可以自由的向机器人提问，例如”你好！“，“介绍一下大语言模型。”等等
 
+![](https://github.com/qwerasdfgioa/Voice-Q-A-robot/blob/main/test.png)
 
 ## 如何使用
 首先你需要确保安装了以下的库
